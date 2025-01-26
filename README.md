@@ -123,7 +123,3 @@ rank_order
 - **Microsoft PowerPoint**: For delivering the final presentation to executive stakeholders.  
 
 ---
-
-### **Connect With Me**  
-Feel free to check out this project and connect with me on LinkedIn for feedback or collaboration opportunities!  
-[LinkedIn Profile](https://www.linkedin.com)  
